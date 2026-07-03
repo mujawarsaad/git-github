@@ -35,3 +35,8 @@ Manage a DevOps project using Git best practices.
 
 Successfully implemented a Git workflow using feature, development, and main branches with proper version control practices.
 
+<img src="https://github.com/mujawarsaad/git-github/blob/main/img1.png">
+<img src="https://github.com/mujawarsaad/git-github/blob/main/img2.png">
+<img src="https://github.com/mujawarsaad/git-github/blob/main/img3.png">
+<img src="https://github.com/mujawarsaad/git-github/blob/main/img4.png">
+
