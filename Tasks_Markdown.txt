@@ -1,0 +1,9 @@
+1. Git Initialized : git init
+2. Created main, dev, feature branches : git checkout -b <branch-name>
+3. Created .gitignore file
+4. Stage the changes : git add .
+5. Committed : git commit -m <message>
+6. Adding repository : git remote add origin <git-repo-link>
+7. Pushing to Repo : git push -u origin main
+8. Created tag : git tag -a <tag-name> -m <message>
+
